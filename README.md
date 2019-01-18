@@ -68,4 +68,11 @@ https://zhuanlan.zhihu.com/p/36427583
 
 https://www.infoq.cn/article/PKzT75BPcryCYJ_VuWrR
 
+---
+
+# GitHub
+
+### 在GitHub高效的搜索开源项目
+
+https://mp.weixin.qq.com/s/__MXKPICzAL4mLetycfc9A
 
