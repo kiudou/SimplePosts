@@ -59,3 +59,13 @@ http://blog.jobbole.com/111731/
 ### RPC
 
 https://zhuanlan.zhihu.com/p/36427583
+
+---
+
+# MySQL
+
+### SQL语句执行过程详解
+
+https://www.infoq.cn/article/PKzT75BPcryCYJ_VuWrR
+
+
