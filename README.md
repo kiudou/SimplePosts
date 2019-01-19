@@ -25,10 +25,18 @@ https://blog.csdn.net/reggergdsg/article/details/52962774
 
 https://blog.csdn.net/qq_35246620/article/details/68487904
 
+---
+
+# Spring
 
 ### Spring RestTemplate 利用拦截器的配置
 
 https://www.jianshu.com/p/deb5e5efb724
+
+### Spring中的使用的4种模式：解释器，构建器，工厂方法和抽象工厂
+
+http://blog.didispace.com/spring-design-partern/
+
 
 ---
 
