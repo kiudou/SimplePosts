@@ -84,3 +84,12 @@ https://www.infoq.cn/article/PKzT75BPcryCYJ_VuWrR
 
 https://mp.weixin.qq.com/s/__MXKPICzAL4mLetycfc9A
 
+---
+
+# Mac
+
+### Mac好用的软件，iterm+zsh+fzf
+
+[如何给码农👨‍💻‍的Mac开光](https://wyydsb.xin/other/terminal.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+
