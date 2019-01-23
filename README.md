@@ -92,4 +92,12 @@ https://mp.weixin.qq.com/s/__MXKPICzAL4mLetycfc9A
 
 [如何给码农👨‍💻‍的Mac开光](https://wyydsb.xin/other/terminal.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
+---
+
+# 程序员
+
+### 什么是真正的程序员
+
+https://www.cnblogs.com/xueweihan/p/5220513.html?pageName=tab_subscribe
+
 
