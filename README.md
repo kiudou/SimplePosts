@@ -37,6 +37,9 @@ https://www.jianshu.com/p/deb5e5efb724
 
 http://blog.didispace.com/spring-design-partern/
 
+### Spring的全局异常处理
+
+[深入理解Spring异常处理](http://college.creditease.cn/#/detail/216?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ---
 
