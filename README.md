@@ -2,13 +2,13 @@
 
 收集一些让人易懂的技术文章
 
-# 前端
+## 前端
 
 [什么是babel](https://zhuanlan.zhihu.com/p/43249121)
 
 ---
 
-# Java
+## Java
 
 [Java之注解Annotation](https://blog.csdn.net/briblue/article/details/73824058)
 
@@ -22,7 +22,7 @@
 
 ---
 
-# Spring
+## Spring
 
 [Spring RestTemplate 利用拦截器的配置](https://www.jianshu.com/p/deb5e5efb724)
 
@@ -32,13 +32,13 @@
 
 ---
 
-# Git
+## Git
 
 [一台电脑Git配置两个git账户](https://www.jianshu.com/p/94d898f91a9c)
 
 ---
 
-# Redis
+## Redis
 
 [sortset跳跃表](http://blog.jobbole.com/111731/)
 
@@ -48,31 +48,31 @@
 
 ---
 
-# 操作系统
+## 操作系统
 
 [RPC](https://zhuanlan.zhihu.com/p/36427583)
 
 ---
 
-# MySQL
+## MySQL
 
 [SQL语句执行过程详解](https://www.infoq.cn/article/PKzT75BPcryCYJ_VuWrR)
 
 ---
 
-# GitHub
+## GitHub
 
 [在GitHub高效的搜索开源项目](https://mp.weixin.qq.com/s/__MXKPICzAL4mLetycfc9A)
 
 ---
 
-# Mac
+## Mac
 
 [如何给码农👨‍💻‍的Mac开光-iterm+zsh+fzf](https://wyydsb.xin/other/terminal.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ---
 
-# 程序员
+## 程序员
 
 [什么是真正的程序员](https://www.cnblogs.com/xueweihan/p/5220513.html?pageName=tab_subscribe)
 
