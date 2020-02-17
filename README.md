@@ -6,7 +6,6 @@
 
 [什么是babel](https://zhuanlan.zhihu.com/p/43249121)
 
----
 
 ## Java
 
@@ -20,7 +19,6 @@
 
 [Java之拦截器Interceptor2](https://blog.csdn.net/qq_35246620/article/details/68487904)
 
----
 
 ## Spring
 
@@ -30,13 +28,11 @@
 
 [深入理解Spring异常处理](http://college.creditease.cn/#/detail/216?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
----
 
 ## Git
 
 [一台电脑Git配置两个git账户](https://www.jianshu.com/p/94d898f91a9c)
 
----
 
 ## Redis
 
@@ -46,31 +42,26 @@
 
 [主从和哨兵架构-哨兵架构](https://mp.weixin.qq.com/s?__biz=MzI4Njg5MDA5NA==&mid=2247484451&idx=1&sn=5495b1165954cd6b84b011489e04a66b&chksm=ebd74522dca0cc3416ab0ccd3a4ddb4ddd28290c9769596a069d81df3b03f4bad72e27d30a6d&token=488172193&lang=zh_CN#rd)
 
----
 
 ## 操作系统
 
 [RPC](https://zhuanlan.zhihu.com/p/36427583)
 
----
 
 ## MySQL
 
 [SQL语句执行过程详解](https://www.infoq.cn/article/PKzT75BPcryCYJ_VuWrR)
 
----
 
 ## GitHub
 
 [在GitHub高效的搜索开源项目](https://mp.weixin.qq.com/s/__MXKPICzAL4mLetycfc9A)
 
----
 
 ## Mac
 
 [如何给码农👨‍💻‍的Mac开光-iterm+zsh+fzf](https://wyydsb.xin/other/terminal.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
----
 
 ## 程序员
 
