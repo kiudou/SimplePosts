@@ -52,6 +52,8 @@
 
 [SQL语句执行过程详解](https://www.infoq.cn/article/PKzT75BPcryCYJ_VuWrR)
 
+## 编码，解码，unicode，UTF-8
+[unicode和UTF-8的区别](https://www.zhihu.com/question/23374078)
 
 ## GitHub
 
