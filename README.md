@@ -4,7 +4,7 @@
 
 ## 前端
 
-[手写promise,await,asych,genarator](https://mp.weixin.qq.com/s/el1e_IWo9U-81JMfyCrebw)
+[手写promise,await,async,genarator](https://mp.weixin.qq.com/s/el1e_IWo9U-81JMfyCrebw)
 
 [什么是babel](https://zhuanlan.zhihu.com/p/43249121)
 
