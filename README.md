@@ -10,6 +10,8 @@
 
 [4W字长文带你深度解锁Webpack系列(上)](https://juejin.im/post/5e5c65fc6fb9a07cd00d8838)
 
+[前端调试利器-whistle](https://mp.weixin.qq.com/s/mLq6KV3ko3OedroGkNdg2Q)
+
 
 ## Java
 
