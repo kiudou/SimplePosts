@@ -12,6 +12,8 @@
 
 [前端调试利器-whistle](https://mp.weixin.qq.com/s/mLq6KV3ko3OedroGkNdg2Q)
 
+[nodejs中require的机制，手写源码（简版）](https://mp.weixin.qq.com/s/M8KyGY_PjtxcvFrGb8cbww)
+
 
 ## Java
 
