@@ -14,6 +14,8 @@
 
 [nodejs中require的机制，手写源码（简版）](https://mp.weixin.qq.com/s/M8KyGY_PjtxcvFrGb8cbww)
 
+[浏览器工作原理，从输入url到页面展示，浏览器发生了什么](https://segmentfault.com/a/1190000022633988)
+
 
 ## Java
 
