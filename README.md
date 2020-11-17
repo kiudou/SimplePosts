@@ -16,6 +16,8 @@
 
 [浏览器工作原理，从输入url到页面展示，浏览器发生了什么](https://segmentfault.com/a/1190000022633988)
 
+[合成层的具体分析-composite](https://fed.taobao.org/blog/2016/04/26/performance-composite/)
+
 
 ## Java
 
