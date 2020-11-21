@@ -18,6 +18,11 @@
 
 [合成层的具体分析-composite](https://fed.taobao.org/blog/2016/04/26/performance-composite/)
 
+[setState异步和同步](https://zhuanlan.zhihu.com/p/39512941)
+
+[vue双向绑定原理](https://segmentfault.com/a/1190000006599500)
+
+[diff算法原理](https://github.com/NervJS/nerv/issues/3)
 
 ## Java
 
