@@ -24,6 +24,8 @@
 
 [diff算法原理](https://github.com/NervJS/nerv/issues/3)
 
+[virtual dom 内部原理](https://efe.baidu.com/blog/the-inner-workings-of-virtual-dom/)
+
 ## Java
 
 [Java之注解Annotation](https://blog.csdn.net/briblue/article/details/73824058)
